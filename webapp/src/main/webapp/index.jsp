@@ -34,8 +34,9 @@
   </div>
 
    <h1> Thankyou, Happy Learning , Thank you </h1>
+   <h1> Finished With First part of Learning,Thank you </h1>
 
-
+	
 
   
 </form>
